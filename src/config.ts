@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://abhiw.github.io/about",
   desc: "A personal blog where I write about software, tools, and things I find interesting.",
   title: "Abhijeet Warhekar", // TODO: replace with your blog title
-  ogImage: "astropaper-og.jpg",
+  ogImage: "",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
