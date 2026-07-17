@@ -1,7 +1,7 @@
 export const SITE = {
-  website: "https://abhijeetwarhekar.me/",
+  website: "https://abhiw.github.io/",
   author: "Abhijeet Warhekar",
-  profile: "https://abhijeetwarhekar.me/about",
+  profile: "https://abhiw.github.io/about",
   desc: "A personal blog where I write about software, tools, and things I find interesting.",
   title: "Abhijeet Warhekar", // TODO: replace with your blog title
   ogImage: "astropaper-og.jpg",
